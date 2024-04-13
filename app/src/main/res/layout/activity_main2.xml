@@ -27,7 +27,7 @@
             android:textAlignment="center"
             android:textColor="#32FF00"
             android:fontFamily="sans-serif-black"
-            android:background="#000"
+            android:background="#FF9933"
             android:textSize="30dp"/>
 
         <ImageView
@@ -43,7 +43,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="1dp"
             android:textColor="@color/black"
-            android:background="#4D00FF"
+            android:background="#CCFFFF"
             android:textSize="70px"/>
 
         <TextView
@@ -52,7 +52,7 @@
             android:layout_height="200dp"
             android:layout_marginTop="1dp"
             android:textColor="@color/white"
-            android:background="#FFF700"
+            android:background="#CC99FF"
             android:textSize="50px"/>
 
         <Button
@@ -69,7 +69,6 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="-120dp"
             android:layout_marginTop="-48dp"
-
             android:text="Borrar" />
 
         <Button
