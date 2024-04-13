@@ -25,7 +25,7 @@
             android:layout_marginTop="15dp"
             android:text="LISTA DE TAREAS"
             android:textAlignment="center"
-            android:textColor="#32FF00"
+            android:textColor="#66CCFF"
             android:fontFamily="sans-serif-black"
             android:background="#FF9933"
             android:textSize="30dp"/>
@@ -51,7 +51,7 @@
             android:layout_width="300dp"
             android:layout_height="200dp"
             android:layout_marginTop="1dp"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
             android:background="#CC99FF"
             android:textSize="50px"/>
 
