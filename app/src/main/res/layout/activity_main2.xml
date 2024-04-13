@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="0dp"
-        android:background="@drawable/duki"
+        android:background="@drawable/mario"
         android:gravity="center"
         android:orientation="vertical"
         tools:ignore="MissingConstraints"
@@ -35,7 +35,7 @@
             android:layout_width="150dp"
             android:layout_height="200dp"
             android:layout_marginTop="2dp"
-            android:background="@drawable/mario" />
+            android:background="@drawable/duki" />
 
         <EditText
             android:id="@+id/ingreso"
