@@ -25,15 +25,15 @@
             android:layout_marginTop="15dp"
             android:text="LISTA DE TAREAS"
             android:textAlignment="center"
-            android:textColor="#66CCFF"
+            android:textColor="#FFFEFF"
             android:fontFamily="sans-serif-black"
-            android:background="#FF9933"
+            android:background="#000000"
             android:textSize="30dp"/>
 
         <ImageView
             android:id="@+id/image"
             android:layout_width="150dp"
-            android:layout_height="200dp"
+            android:layout_height="150dp"
             android:layout_marginTop="2dp"
             android:background="@drawable/duki" />
 
